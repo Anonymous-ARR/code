@@ -1,3 +1,3 @@
-# tokenization_anonymous
+# Code
 
-Whenever you install NLTK, also download punct and wordnet using `nltk.download('punct')` or `nltk.download('wordnet')` after importing nltk.
+Codebase accompanying the submission `What do tokens know about their characters and how do they know it?`.
